@@ -1,0 +1,27 @@
+# Environment & secrets
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+deus_venv/
+
+# macOS
+.DS_Store
+
+# Audio/video files
+*.mp4
+*.wav
+*.mp3
+
+# Temp files
+*.tmp
+/tmp/
+
+# IDE
+.vscode/
+.idea/

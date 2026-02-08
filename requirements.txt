@@ -1,0 +1,5 @@
+pyobjc-framework-Cocoa>=12.0
+pyobjc-framework-Quartz>=12.0
+PyAudio>=0.2.14
+pynput>=1.8.0
+websockets>=16.0
