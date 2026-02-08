@@ -4,9 +4,9 @@ A voice-controlled AI desktop companion inspired by *Deus*, the Israeli TV show.
 
 **macOS only** — uses native AppKit/Quartz for the transparent overlay window.
 
-## Demo
-
-![DEUS Demo](demo.gif)
+<p align="center">
+  <img src="demo.gif" alt="DEUS Demo" />
+</p>
 
 ## How It Works
 
